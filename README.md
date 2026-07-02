@@ -32,34 +32,6 @@ A simple desktop application built with Python and FreeSimpleGUI that allows use
 3. Click **Compress**.
 4. The application creates a `compressed.zip` file in the selected destination containing all the chosen files.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/file-compressor.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd file-compressor
-```
-
-3. Install the required dependency:
-
-```bash
-pip install FreeSimpleGUI
-```
-
-## Usage
-
-Run the application:
-
-```bash
-python main.py
-```
-
 ## Learning Outcomes
 
 This project helped me practice:
